@@ -1,4 +1,4 @@
-#My first project in react
+# My first project in react
 
 following this (https://www.youtube.com/watch?v=b9eMGE7QtTk) tutorial.
 
